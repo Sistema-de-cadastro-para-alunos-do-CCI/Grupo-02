@@ -94,8 +94,12 @@ Um bom exemplo: se você estiver construindo uma API, liste as rotas da aplicaç
 
 ## Integrantes
 Angélica Rodrigues
+
 Ciro Lopes
+
 Vanessa Soares
+
 Nagila Lopes
+
 Samuel Portela
 
